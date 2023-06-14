@@ -1,0 +1,23 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.red.active { 
+  background-color: red;
+}
+.blue.active { 
+  background-color: blue;
+}
+.green.active { 
+  background-color: green;
+}
+.orange.active { 
+  background-color: orange;
+}
+.purple.active { 
+  background-color: purple;
+}
